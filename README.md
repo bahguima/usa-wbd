@@ -1,6 +1,6 @@
 Repositório da LP da World Business Development- WBD
 
-Link: https://usa-wbd.com
+Link: http://usa-wbd.com
 
 <p> A World Business Development é uma revendedora de equipamentos médicos. Localizada nos Estados Unidos. </p><br>
 
